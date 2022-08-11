@@ -3,7 +3,7 @@
 
 ## Tunde Egunjobi
 ## ID: 1572882f19c1f000
-## INTRODUCTION TO PYTHON FOR MACHINE LEARNING.
+.
 This repository houses the tag-along code for Stage B
 
 Answers were provided for 9 different questions as required
